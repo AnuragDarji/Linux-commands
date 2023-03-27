@@ -3,5 +3,5 @@ Linux® is an open source operating system (OS). An operating system is the soft
 
 <br>
 <p align="center">
-<img src="" width="300" height="auto">
+<img src="https://user-images.githubusercontent.com/127482974/228032054-8a32cd9c-a5e2-4514-95d3-e8267f0c9f5d.png" width="300" height="auto">
 </p>
